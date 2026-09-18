@@ -80,7 +80,7 @@ VitalLog/
 │
 ├── README.md
 ├── statement.md
-├── .gitignore
+├
 │
 └── data/
     ├── user.csv
